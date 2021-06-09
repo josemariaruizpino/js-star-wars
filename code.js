@@ -111,11 +111,6 @@ class Jedi {
   }
   
   
-
-  //(En este punto me atasqué y no la consegui sacar por mi mismo pero al ver la solucion lo entiendo)
-
-  // WAR ========================================
-  // ============================================
   const myWar = new War()
   
   const generateSith = () => new Sith('Harald', 90, 75)
